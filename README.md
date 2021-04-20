@@ -1,4 +1,6 @@
-### Hi there 👋
+<h3> Hi there 🤘 &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp  growing on programming 🌱<h3>
+
+ <h4>&nbsp :telephone_receiver:  &nbsp 15 99853-3799  &nbsp &nbsp  ✉️  &nbsp 95deal@gmail.com  &nbsp &nbsp  :bust_in_silhouette: &nbsp   /in/95deal</h4>
 
 <!--
 **deal-machine/deal-machine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
