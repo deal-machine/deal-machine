@@ -9,7 +9,7 @@
 <br>
   
  <div align="left">
-   <h5>I am currently working as a software engineer, my focus is web development, with these technologies...</h5>
+   <h5>I am currently working as a web developer, with these technologies...</h5>
 <br><br>
   
   > back-end
@@ -55,7 +55,7 @@
 
   <hr>
  <div align="center">
-  <h6>let's have a coffee</h6> <image src="https://freesvg.org/img/espresso.png" width="150" height="150" />
+  <h6>let's have a coffee</h6> <image src="https://freesvg.org/img/espresso.png" width="155" height="150" />
  </div>
 <div align="right">
   <h4>Feel free to contact me</h4>
