@@ -1,16 +1,15 @@
-<h3> Hi there, my name is Douglas Lourenço. <h3>
+<h3> Hi there, my name is Douglas Lourenço :brazil: <h3>
 <div align="right"> 
  <a href="https://www.linkedin.com/in/95deal/" target="_BLANK"/><img src="https://img.icons8.com/color/344/linkedin-circled--v1.png" alt="LinkedIn Logo" width="50" height="50" /></a>
  <a href="https://twitter.com/doug4lc" target="_BLANK"><img src="https://img.icons8.com/color/452/twitter--v1.png" alt="Twitter Logo" width="50" height="50"/></a>
  </div> 
-<div align="center"> 
- <h6>"Ten years ago, after school, I started studying technology, not only studying, but also applying and solving problems with it. Since then my knowledge has continued to grow, now I can see it as a part of me, the result of much interest and hard work. My fuel is waking up every morning to pursue new goals."
- </h6>
-</div>
-    <hr>
+ <hr>
+<div align="left"> 
+ :pushpin: Technologies
+ </div>
   
  <div align="justify">
-   <h5>Currently I'm working as a web developer, and I have experience with many technologies:</h5>
+   <h6>Currently I'm working as a web developer, and I have experience with many technologies:</h6>
 <br>
  <div>
   <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" />
