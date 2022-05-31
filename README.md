@@ -17,7 +17,7 @@
  
  <br>
  <div align="justify" >
-   <h6>I'm working as a Web Developer, and I have experience with many technologies :heavy_check_mark:</h6>
+   <h6>I'm working as a Web Developer, and I have experience with many technologies :hammer_and_wrench: </h6>
 <br>
  <div align="center">
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> &nbsp
