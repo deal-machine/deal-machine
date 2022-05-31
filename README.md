@@ -7,8 +7,8 @@
    <h6 align="justify">:brazil: Dez anos atras, após a escola, começei a estudar tecnologia, não só estudar mas aplicar na solução de problemas. Desde então meu conhecimento continua a crescer. Eu posso ver isso como uma parte de mim, resultado de muito interesse e trabalho duro.</h6>
  </div>
  <div align="right">
-  <a href="https://www.linkedin.com/in/95deal/" target="_blank"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Logo" height="25" /></a>
-  <a href="https://twitter.com/doug4lc" target="_blank"><img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter Logo" height="25"/></a>
+  <a href="https://www.linkedin.com/in/95deal/" target="_blank"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Logo" height="25" /></a>&nbsp&nbsp
+  <a href="https://twitter.com/doug4lc" target="_blank"><img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter Logo" height="25"/></a>&nbsp&nbsp
   <a href="mailto:95deal@gmail.com?subject=Hello" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="25"/></a>
  </div>
 </div> 
