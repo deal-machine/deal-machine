@@ -1,37 +1,45 @@
-<h3> Hi there, my name is Douglas Lourenço :brazil: <h3>
-<div align="right"> 
- <a href="https://www.linkedin.com/in/95deal/" target="_BLANK"/><img src="https://img.icons8.com/color/344/linkedin-circled--v1.png" alt="LinkedIn Logo" width="50" height="50" /></a>
- <a href="https://twitter.com/doug4lc" target="_BLANK"><img src="https://img.icons8.com/color/452/twitter--v1.png" alt="Twitter Logo" width="50" height="50"/></a>
- </div> 
- <hr>
-<div align="left"> 
- :pushpin: Technologies
+
+<h3 align="left"> Hello world, my name is Douglas Lourenço 🤙 <h3>
+ 
+<div style="display: inline_block"> 
+ <div align="left" width="50%">
+   <h6 align="justify">:us: Ten years ago, after school, I started studying technology, not only studying, but also applying and solving problems with it. Since then my knowledge has continued to grow, now I can see it as a part of me, the result of much interest and hard work.</h6>
+   <h6 align="justify">:brazil: Dez anos atras, após a escola, começei a estudar tecnologia, não só estudar mas aplicar na solução de problemas. Desde então meu conhecimento continua a crescer. Eu posso ver isso como uma parte de mim, resultado de muito interesse e trabalho duro.</h6>
  </div>
-  
- <div align="justify">
-   <h6>Currently I'm working as a web developer, and I have experience with many technologies:</h6>
+ <div align="right">
+  <a href="https://www.linkedin.com/in/95deal/" target="_blank"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Logo" height="25" /></a>
+  <a href="https://twitter.com/doug4lc" target="_blank"><img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter Logo" height="25"/></a>
+  <a href="mailto:95deal@gmail.com?subject=Hello" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="25"/></a>
+ </div>
+</div> 
+ 
+## 
+ 
+ <br>
+ <div align="justify" >
+   <h6>I'm working as a Web Developer, and I have experience with many technologies :heavy_check_mark:</h6>
 <br>
- <div>
-  <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />    
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />   
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" /> 
+ <div align="center">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> &nbsp
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />&nbsp
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />&nbsp&nbsp&nbsp&nbsp&nbsp
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />  &nbsp
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />&nbsp
+   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" />&nbsp
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />  &nbsp&nbsp&nbsp&nbsp&nbsp
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />&nbsp
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />&nbsp
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />&nbsp
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />&nbsp
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />&nbsp&nbsp&nbsp&nbsp&nbsp
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />  &nbsp
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />&nbsp
  </div>
- <div>  
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> 
+
  </div>
- <div>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
- </div>
- </div>
+
+ 
