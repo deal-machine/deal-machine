@@ -16,7 +16,7 @@
  
  <br>
  <div align="justify" >
-   <h6>I'm working as a Web Developer, and I have experience with many technologies :hammer_and_wrench: </h6>
+   <h6>I'm working as a Software Engineer, and I have experience with many technologies :hammer_and_wrench: </h6>
 <br>
  <div align="center">
   <!--   system op, cloud, containers -->
@@ -35,6 +35,13 @@
   <img height="35" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" />&nbsp&nbsp&nbsp&nbsp&nbsp
   <img height="35" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/50342602-8025-4030-b492-550f2eaa4073" />&nbsp&nbsp&nbsp&nbsp&nbsp
   <img height="35" src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png" />&nbsp&nbsp&nbsp&nbsp&nbsp
+  <br>
+   <!--   databases -->
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />&nbsp&nbsp&nbsp&nbsp&nbsp
+  <img height="35" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" />&nbsp&nbsp&nbsp&nbsp&nbsp
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />&nbsp&nbsp&nbsp&nbsp&nbsp
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />&nbsp&nbsp&nbsp&nbsp&nbsp
+  <img height="35" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" />&nbsp&nbsp&nbsp&nbsp&nbsp
    <!--  backend -->  
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp&nbsp&nbsp&nbsp&nbsp
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />&nbsp&nbsp&nbsp&nbsp&nbsp
@@ -43,12 +50,6 @@
   <img height="35" src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png" />&nbsp&nbsp&nbsp&nbsp&nbsp
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" />&nbsp&nbsp&nbsp&nbsp&nbsp
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />&nbsp&nbsp&nbsp&nbsp&nbsp
-   <!--   databases -->
-  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />&nbsp&nbsp&nbsp&nbsp&nbsp
-  <img height="35" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" />&nbsp&nbsp&nbsp&nbsp&nbsp
-  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />&nbsp&nbsp&nbsp&nbsp&nbsp
-  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />&nbsp&nbsp&nbsp&nbsp&nbsp
-  <img height="35" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" />&nbsp&nbsp&nbsp&nbsp&nbsp
    <!--   support api -->
   <img height="35" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" />&nbsp&nbsp&nbsp&nbsp&nbsp
   <img height="35" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" />&nbsp&nbsp&nbsp&nbsp&nbsp
