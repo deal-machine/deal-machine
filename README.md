@@ -35,7 +35,6 @@
   <img height="35" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" />&nbsp&nbsp&nbsp&nbsp&nbsp
   <img height="35" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/50342602-8025-4030-b492-550f2eaa4073" />&nbsp&nbsp&nbsp&nbsp&nbsp
   <img height="35" src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png" />&nbsp&nbsp&nbsp&nbsp&nbsp
-  <br>
    <!--   databases -->
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />&nbsp&nbsp&nbsp&nbsp&nbsp
   <img height="35" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" />&nbsp&nbsp&nbsp&nbsp&nbsp
