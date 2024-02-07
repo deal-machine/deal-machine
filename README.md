@@ -1,5 +1,5 @@
 
-<h3 align="left"> Hello world, my name is Douglas Lourenço 🤙 <h3>
+<h3 align="center"> Hello world, my name is Douglas Lourenço 🤙 <h3>
  
 <div style="display: inline_block"> 
  <div align="left" width="50%">
